@@ -1,0 +1,289 @@
+{
+  "backcountry": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 1721,
+    "y": 572
+  },
+  "bakery": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 1764,
+    "y": 521
+  },
+  "burg": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 1742,
+    "y": 572
+  },
+  "burgruine": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 1765,
+    "y": 501
+  },
+  "camping-caravaning": {
+    "height": 28,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 1762,
+    "y": 553
+  },
+  "hospital": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 1768,
+    "y": 535
+  },
+  "hostel": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 1714,
+    "y": 501
+  },
+  "kebab": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 1778,
+    "y": 521
+  },
+  "leaftype_broadleaved": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 794,
+    "y": 600
+  },
+  "leaftype_mixed": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 1306,
+    "y": 600
+  },
+  "leaftype_needleleaved": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 800,
+    "y": 1112
+  },
+  "motorway1": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 27,
+    "x": 1687,
+    "y": 554
+  },
+  "motorway2": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 27,
+    "x": 1737,
+    "y": 519
+  },
+  "motorway3": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 27,
+    "x": 1741,
+    "y": 536
+  },
+  "motorway4": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 33,
+    "x": 1681,
+    "y": 501
+  },
+  "motorway5": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 39,
+    "x": 1646,
+    "y": 537
+  },
+  "motorway6": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 46,
+    "x": 1641,
+    "y": 554
+  },
+  "motorway7": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 52,
+    "x": 1594,
+    "y": 537
+  },
+  "oneway": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 12,
+    "x": 1742,
+    "y": 592
+  },
+  "oneway-reverse": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 12,
+    "x": 1749,
+    "y": 553
+  },
+  "pharmacy": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 1762,
+    "y": 581
+  },
+  "primary1": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1681,
+    "y": 518
+  },
+  "primary2": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1685,
+    "y": 536
+  },
+  "primary3": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1709,
+    "y": 518
+  },
+  "primary4": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 1647,
+    "y": 501
+  },
+  "primary5": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 1641,
+    "y": 571
+  },
+  "primary6": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 47,
+    "x": 1594,
+    "y": 554
+  },
+  "primary7": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 1594,
+    "y": 501
+  },
+  "secondary1": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1713,
+    "y": 536
+  },
+  "secondary2": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1737,
+    "y": 501
+  },
+  "secondary3": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 1721,
+    "y": 554
+  },
+  "secondary4": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 1647,
+    "y": 519
+  },
+  "secondary5": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 1681,
+    "y": 571
+  },
+  "secondary6": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 47,
+    "x": 1594,
+    "y": 572
+  },
+  "secondary7": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 1594,
+    "y": 519
+  },
+  "sports-basketball": {
+    "height": 600,
+    "pixelRatio": 1,
+    "width": 800,
+    "x": 0,
+    "y": 1123
+  },
+  "sports-foot-us": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 323,
+    "x": 800,
+    "y": 1624
+  },
+  "sports-handball": {
+    "height": 240,
+    "pixelRatio": 1,
+    "width": 440,
+    "x": 1594,
+    "y": 261
+  },
+  "sports-rugby": {
+    "height": 600,
+    "pixelRatio": 1,
+    "width": 800,
+    "x": 794,
+    "y": 0
+  },
+  "sports-soccer": {
+    "height": 261,
+    "pixelRatio": 1,
+    "width": 444,
+    "x": 1594,
+    "y": 0
+  },
+  "sports-tennis": {
+    "height": 1123,
+    "pixelRatio": 1,
+    "width": 794,
+    "x": 0,
+    "y": 0
+  }
+}
