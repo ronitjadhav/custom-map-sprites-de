@@ -1,288 +1,288 @@
 {
   "backcountry": {
-    "height": 42,
-    "pixelRatio": 2,
-    "width": 42,
-    "x": 3442,
-    "y": 1144
+    "height": 84,
+    "pixelRatio": 4,
+    "width": 84,
+    "x": 6884,
+    "y": 2288
   },
   "bakery": {
-    "height": 28,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 3528,
-    "y": 1042
+    "height": 56,
+    "pixelRatio": 4,
+    "width": 56,
+    "x": 7056,
+    "y": 2084
   },
   "burg": {
-    "height": 40,
-    "pixelRatio": 2,
-    "width": 40,
-    "x": 3484,
-    "y": 1144
+    "height": 80,
+    "pixelRatio": 4,
+    "width": 80,
+    "x": 6968,
+    "y": 2288
   },
   "burgruine": {
-    "height": 40,
-    "pixelRatio": 2,
-    "width": 40,
-    "x": 3530,
-    "y": 1002
+    "height": 80,
+    "pixelRatio": 4,
+    "width": 80,
+    "x": 7060,
+    "y": 2004
   },
   "camping-caravaning": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 3524,
-    "y": 1106
+    "height": 112,
+    "pixelRatio": 4,
+    "width": 56,
+    "x": 7048,
+    "y": 2212
   },
   "hospital": {
-    "height": 28,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 3536,
-    "y": 1070
+    "height": 56,
+    "pixelRatio": 4,
+    "width": 56,
+    "x": 7072,
+    "y": 2140
   },
   "hostel": {
-    "height": 32,
-    "pixelRatio": 2,
-    "width": 32,
-    "x": 3428,
-    "y": 1002
+    "height": 64,
+    "pixelRatio": 4,
+    "width": 64,
+    "x": 6856,
+    "y": 2004
   },
   "kebab": {
-    "height": 28,
-    "pixelRatio": 2,
-    "width": 28,
-    "x": 3556,
-    "y": 1042
+    "height": 56,
+    "pixelRatio": 4,
+    "width": 56,
+    "x": 7112,
+    "y": 2084
   },
   "leaftype_broadleaved": {
-    "height": 1024,
-    "pixelRatio": 2,
-    "width": 1024,
-    "x": 1588,
-    "y": 1200
+    "height": 2048,
+    "pixelRatio": 4,
+    "width": 2048,
+    "x": 3176,
+    "y": 2400
   },
   "leaftype_mixed": {
-    "height": 1024,
-    "pixelRatio": 2,
-    "width": 1024,
-    "x": 2612,
-    "y": 1200
+    "height": 2048,
+    "pixelRatio": 4,
+    "width": 2048,
+    "x": 5224,
+    "y": 2400
   },
   "leaftype_needleleaved": {
-    "height": 1024,
-    "pixelRatio": 2,
-    "width": 1024,
-    "x": 1600,
-    "y": 2224
+    "height": 2048,
+    "pixelRatio": 4,
+    "width": 2048,
+    "x": 3200,
+    "y": 4448
   },
   "motorway1": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 54,
-    "x": 3374,
-    "y": 1108
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 108,
+    "x": 6748,
+    "y": 2216
   },
   "motorway2": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 54,
-    "x": 3474,
-    "y": 1038
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 108,
+    "x": 6948,
+    "y": 2076
   },
   "motorway3": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 54,
-    "x": 3482,
-    "y": 1072
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 108,
+    "x": 6964,
+    "y": 2144
   },
   "motorway4": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 66,
-    "x": 3362,
-    "y": 1002
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 6724,
+    "y": 2004
   },
   "motorway5": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 78,
-    "x": 3292,
-    "y": 1074
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 156,
+    "x": 6584,
+    "y": 2148
   },
   "motorway6": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 92,
-    "x": 3282,
-    "y": 1108
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 184,
+    "x": 6564,
+    "y": 2216
   },
   "motorway7": {
-    "height": 34,
-    "pixelRatio": 2,
-    "width": 104,
-    "x": 3188,
-    "y": 1074
+    "height": 68,
+    "pixelRatio": 4,
+    "width": 208,
+    "x": 6376,
+    "y": 2148
   },
   "oneway": {
-    "height": 8,
-    "pixelRatio": 2,
-    "width": 24,
-    "x": 3484,
-    "y": 1184
+    "height": 16,
+    "pixelRatio": 4,
+    "width": 48,
+    "x": 6968,
+    "y": 2368
   },
   "oneway-reverse": {
-    "height": 8,
-    "pixelRatio": 2,
-    "width": 24,
-    "x": 3498,
-    "y": 1106
+    "height": 16,
+    "pixelRatio": 4,
+    "width": 48,
+    "x": 6996,
+    "y": 2212
   },
   "pharmacy": {
-    "height": 32,
-    "pixelRatio": 2,
-    "width": 32,
-    "x": 3524,
-    "y": 1162
+    "height": 64,
+    "pixelRatio": 4,
+    "width": 64,
+    "x": 7048,
+    "y": 2324
   },
   "primary1": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3362,
-    "y": 1036
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6724,
+    "y": 2072
   },
   "primary2": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3370,
-    "y": 1072
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6740,
+    "y": 2144
   },
   "primary3": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3418,
-    "y": 1036
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6836,
+    "y": 2072
   },
   "primary4": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 68,
-    "x": 3294,
-    "y": 1002
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 136,
+    "x": 6588,
+    "y": 2004
   },
   "primary5": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 80,
-    "x": 3282,
-    "y": 1142
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 160,
+    "x": 6564,
+    "y": 2284
   },
   "primary6": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 94,
-    "x": 3188,
-    "y": 1108
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 188,
+    "x": 6376,
+    "y": 2216
   },
   "primary7": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 106,
-    "x": 3188,
-    "y": 1002
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 212,
+    "x": 6376,
+    "y": 2004
   },
   "secondary1": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3426,
-    "y": 1072
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6852,
+    "y": 2144
   },
   "secondary2": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3474,
-    "y": 1002
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6948,
+    "y": 2004
   },
   "secondary3": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 56,
-    "x": 3442,
-    "y": 1108
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 112,
+    "x": 6884,
+    "y": 2216
   },
   "secondary4": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 68,
-    "x": 3294,
-    "y": 1038
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 136,
+    "x": 6588,
+    "y": 2076
   },
   "secondary5": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 80,
-    "x": 3362,
-    "y": 1142
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 160,
+    "x": 6724,
+    "y": 2284
   },
   "secondary6": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 94,
-    "x": 3188,
-    "y": 1144
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 188,
+    "x": 6376,
+    "y": 2288
   },
   "secondary7": {
-    "height": 36,
-    "pixelRatio": 2,
-    "width": 106,
-    "x": 3188,
-    "y": 1038
+    "height": 72,
+    "pixelRatio": 4,
+    "width": 212,
+    "x": 6376,
+    "y": 2076
   },
   "sports-basketball": {
-    "height": 1200,
-    "pixelRatio": 2,
-    "width": 1600,
+    "height": 2400,
+    "pixelRatio": 4,
+    "width": 3200,
     "x": 0,
-    "y": 2246
+    "y": 4492
   },
   "sports-foot-us": {
-    "height": 312,
-    "pixelRatio": 2,
-    "width": 646,
-    "x": 1600,
-    "y": 3248
+    "height": 624,
+    "pixelRatio": 4,
+    "width": 1292,
+    "x": 3200,
+    "y": 6496
   },
   "sports-handball": {
-    "height": 480,
-    "pixelRatio": 2,
-    "width": 880,
-    "x": 3188,
-    "y": 522
+    "height": 960,
+    "pixelRatio": 4,
+    "width": 1760,
+    "x": 6376,
+    "y": 1044
   },
   "sports-rugby": {
-    "height": 1200,
-    "pixelRatio": 2,
-    "width": 1600,
-    "x": 1588,
+    "height": 2400,
+    "pixelRatio": 4,
+    "width": 3200,
+    "x": 3176,
     "y": 0
   },
   "sports-soccer": {
-    "height": 522,
-    "pixelRatio": 2,
-    "width": 888,
-    "x": 3188,
+    "height": 1044,
+    "pixelRatio": 4,
+    "width": 1776,
+    "x": 6376,
     "y": 0
   },
   "sports-tennis": {
-    "height": 2246,
-    "pixelRatio": 2,
-    "width": 1588,
+    "height": 4492,
+    "pixelRatio": 4,
+    "width": 3176,
     "x": 0,
     "y": 0
   }
